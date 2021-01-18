@@ -1,1 +1,1 @@
-# Decent-Team-Senior-Project
+# Minnesoft-Senior-Project
