@@ -1,1 +1,45 @@
+<!doctype html>
+<html>
+<header>
+    <section class="top">
+        <div class="logo"><img src="images/logo.jpg" width="200" alt="logo"></div>
 
+    </section>
+    <nav>
+        <ul class="navbar">
+            <li><a href="Dashboard.html" class="active">Home</a></li>
+            <li><a href="Login.html">Login</a></li>
+			<li><a href="Course.html">Course</a></li>
+			<li><a href="Community.html">Community</a></li>
+			<li><a href="Canlendar.html">Canlendar</a></li>
+			<li><a href="Chart.html">Chart</a></li>
+			<li><a href="Account.html">Account</a></li>
+        </ul>
+    </nav>
+</header>
+<head>
+    <meta charset="utf-8">
+    <title>Welcome to Umc Class Passport</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+<section class="container">
+    <h1>Event and Notification</h1>
+    <ul class="Event">
+        <!-- <li>
+            <div class="pic"><img src="images/UMC logo.gif" alt="logo"></div>
+            <div class="txt">
+                <p>UMC Events</p>
+                <p class="Events"><span>Events</span><span>
+          <button>Events</button>
+          </span></p>
+            </div>
+        </li> -->
+    </ul>
+</section>
+</body>
+<bottom>
+<div class="Email">Email:UMCpassport@gmail.com</div>
+<div class="tel">TEL:(218)-345-1234</div>
+</html>
