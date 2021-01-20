@@ -11,19 +11,9 @@
         <!------Link font awesome------->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-		
-
-
 </head>
 <body>
-
-
 </body>
-
-
-
-
 <form class="signup-form" method="POST" type="multipart/form-data">
 	<fieldset>
 		<legend>Signup</legend>
@@ -56,12 +46,9 @@
 		<a href="Login-loginpage.php" onclick="login_page()" >Aleardy have account? Login</a><br>
                 <input type="button" value="Back" onclick="window.location='account.php'">
 		</div>
-		
 	</fieldset>
 </form>
 </html>
-
-
 <?php
 	$dbhost = 'fdb30.awardspace.net';
 	$dbuser = '3717006_umcclasspassport';
